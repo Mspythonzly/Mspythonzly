@@ -9,7 +9,7 @@
 </br>
 
 
-![Metrics](https://metrics.lecoq.io/?template=classic&lines=1&topics=1&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&posts=false&posts.user=.user.login&posts.descriptions=false&posts.covers=false&posts.limit=4&config.timezone=Asia%2FHong_Kong)
+![Metrics](https://metrics.lecoq.io/Mspythonzly?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong)
 
 数据不太可观 不用理他/斜眼笑
 ------------
